@@ -53,7 +53,7 @@ Just a reminder, writing a Pull Request, like code, is a process. It requites mo
 ## Learning
 _The `Learning` section explains 'WHAT I learned in boating school today is ...'_
 
-Approach each PR as a docuement for sharing knowledge. When we teach the assignee/reviewer through a Pull Request, we build confidence that the developer has taken due dilligence during the research phase. 
+Approach each PR as a document for sharing knowledge. When we teach the assignee/reviewer through a Pull Request, we build confidence that the developer has taken due dilligence during the research phase. 
 
 The assignee is not treated as a Merge Button Gatekeeper, but a collaborator. Awell written PR invites everyone to learn and and be part of the process of shipping code.
 
